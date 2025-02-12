@@ -6,7 +6,7 @@ Customer segmentation using big data analytics involves collecting and analyzing
 
 ## Project Goal:
 
-The project goal is to leverage the power of data analysis to better understand a company's customers, their needs, preferences, and behaviors, and use this information to create more effective marketing strategies. The project aims to identify customer segments with similar characteristics, develop targeted marketing campaigns for each group, and continuously monitor and adjust strategies based on changes in customer behavior and preferences. Ultimately, the goal is to improve customer satisfaction, increase customer loyalty, and drive business growth by better meeting the needs of different customer segments.
+The project goal is to leverage the power of data analysis to better understand a company's customers, their needs, preferences, and behaviors, and use this information to create more effective marketing strategies. The project aims to identify customer segments with similar characteristics, develop targeted marketing campaigns for each group, and continuously monitor and adjust strategies based on changes in customer behavior and preferences. Ultimately, the goal is to improve customer satisfaction, increase customer loyalty, and drive business growth by better meeting the needs of different customer segments
 
 ## Generated Reports:
 
